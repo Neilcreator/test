@@ -9,6 +9,8 @@ function App() {
         <p>
           FEEL THE LOVE GO <code>src/App.js</code> EVERYTHING HURTS AND SUCKS
         </p>
+        <p>Damas y caballeros terminamos el curso :,D</p>
+        <p>recuerda siempre acudir a tu documentacion. FIN</p>
         <a
           className="App-link"
           href="https://reactjs.org"
